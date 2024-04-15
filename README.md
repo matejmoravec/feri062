@@ -40,8 +40,8 @@ Pomembno je upoštevati naslednje:
 4. Skladnost s standardi: Pomembno je, da so odmiki v celotnem programu dosledni. Običajno se uporabljajo štirje
    presledki za en odmik ali en tabulator, vendar je ključno, da se ena metoda uporablja dosledno po celotni kodi.
 
-Zato je pomembno, da se upošteva pravilno uporabo odmikov v Pythonu, saj to vpliva na berljivost, strukturo in delovanje
-vaše kode.
+Zato je pomembno, da se upošteva pravilno uporabo odmikov v programskem jeziku Python, saj to vpliva na berljivost,
+strukturo in delovanje vaše kode.
 
 #### Kako zagnati posamezno celico v interaktivni beležki?
 
@@ -49,6 +49,12 @@ vaše kode.
 2. Če želite izvršiti celico, pritisnite Shift + Enter ali kliknite na gumb "Run" (trikotnik) v zgornjem meniju.
 3. Počakajte, da se izvrši koda v celici.
 4. Rezultat izvedene kode (če obstaja) se bo prikazal pod celico.
+
+#### Kako na svoj računalnik shraniti Jupyter Notebook (vključno z vnosi v celicah s kodo)?
+
+1. Kliknite na "File" v zgornji vrstici menija.
+2. Iz spustnega menija izberite "Download".
+3. Izberite želeno mesto na računalniku in shranite Jupyter Notebook (.ipynb) na svoj računalnik.
 
 ### Kako nadgraditi usvojeno znanje?
 
