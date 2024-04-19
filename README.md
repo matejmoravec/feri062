@@ -23,6 +23,22 @@ povezavi: [https://mybinder.org/v2/gh/matejmoravec/feri062/HEAD](https://mybinde
 V direktoriju [tasks/](tasks) se nahaja zbirka nalog, ki jih je mogoče rešiti s pomočjo znanja osnovnih konceptov
 programiranja v programskem jeziku Python.
 
+### Vzpostavitev okolja na svojem računalniku
+
+1. Na svoj računalnik prenesite brezplačno dostopno integrirano razvojno okolje (IDE)
+   [PyCharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
+   za razvoj s programskim jezikom Python.
+2. Ko je prenos končan, zaženite namestitveno datoteko (.exe) in sledite navodilom namestitve. Privzeto so izbrane vse
+   potrebne komponente za namestitev. Izberite ciljni direktorij za namestitev, če želite spremeniti privzeto lokacijo.
+3. Na svoj računalnik [s te povezave](https://github.com/matejmoravec/feri062/archive/refs/heads/master.zip) prenesite
+   projekt iz tega repozitorija in ga razpakirajte na poljubno lokacijo.
+4. Odprite PyCharm in v zgornjem meniju izberite "File" --> "Open..." ter v dialogu poiščite in izberite direktorij s
+   projektom, ki ste ga v prejšnji točki prenesli iz tega repozitorija.
+5. Na levi strani so prikazane interaktivne beležke. Posamezne celice v interaktivni beležki lahko zaganjate tako, da na
+   vrhu beležke kliknete na zeleni trikotnik.
+
+![Screenshot_Pycharm](Screenshot_PyCharm.png)
+
 ### Smernice pri uporabi interaktivnih beležk
 
 #### Strukturiranje kode v programskem jeziku Python
