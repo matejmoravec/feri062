@@ -25,16 +25,20 @@ programiranja v programskem jeziku Python.
 
 ### Vzpostavitev okolja na svojem računalniku
 
-1. Na svoj računalnik prenesite brezplačno dostopno integrirano razvojno okolje (IDE)
-   [PyCharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
-   za razvoj s programskim jezikom Python.
-2. Ko je prenos končan, zaženite namestitveno datoteko (.exe) in sledite navodilom namestitve. Privzeto so izbrane vse
+1. Na svoj računalnik prenesite integrirano razvojno okolje (IDE)
+   [PyCharm Professional](https://www.jetbrains.com/pycharm/download/) za razvoj s programskim jezikom Python.
+2. Ko je prenos končan, zaženite namestitveno datoteko in sledite navodilom namestitve. Privzeto so izbrane vse
    potrebne komponente za namestitev. Izberite ciljni direktorij za namestitev, če želite spremeniti privzeto lokacijo.
-3. Na svoj računalnik [s te povezave](https://github.com/matejmoravec/feri062/archive/refs/heads/master.zip) prenesite
+3. Na naslednji povezavi zaprosite za brezplačno licenco JetBrains:
+   [JetBrains Products for Learning](https://www.jetbrains.com/shop/eform/students). Pri izpolnjevanju obrazca
+   **obvezno** navedite šolski e-naslov (*@student.um.si)*.
+4. Odprite PyCharm in v zgornjem meniju izberite "Help" in nato "Register...". Prijavite se z istim e-naslovom in
+   geslom, ki ste ga nastavili v prejšnjem koraku in imeli boste polno različico Pycharm Professional.
+5. Na svoj računalnik [s te povezave](https://github.com/matejmoravec/feri062/archive/refs/heads/master.zip) prenesite
    projekt iz tega repozitorija in ga razpakirajte na poljubno lokacijo.
-4. Odprite PyCharm in v zgornjem meniju izberite "File" --> "Open..." ter v dialogu poiščite in izberite direktorij s
+6. Odprite PyCharm in v zgornjem meniju izberite "File" --> "Open..." ter v dialogu poiščite in izberite direktorij s
    projektom, ki ste ga v prejšnji točki prenesli iz tega repozitorija.
-5. Na levi strani so prikazane interaktivne beležke. Posamezne celice v interaktivni beležki lahko zaganjate tako, da na
+7. Na levi strani so prikazane interaktivne beležke. Posamezne celice v interaktivni beležki lahko zaganjate tako, da na
    vrhu beležke kliknete na zeleni trikotnik.
 
 ![Screenshot_Pycharm](Screenshot_PyCharm.png)
