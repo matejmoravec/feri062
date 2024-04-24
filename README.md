@@ -17,8 +17,8 @@ povezavi: [https://mybinder.org/v2/gh/matejmoravec/feri062/HEAD](https://mybinde
 - [Pogojni stavki](basics/4_conditions.ipynb)
 - [Operatorji](basics/5_operators.ipynb)
 - [Zanka `for`](basics/6_for_loop.ipynb)
-- [Zanka `while`](basics/6_while_loop.ipynb)
-- [Funkcije](basics/7_functions.ipynb)
+- [Zanka `while`](basics/7_while_loop.ipynb)
+- [Funkcije](basics/8_functions.ipynb)
 
 V direktoriju [tasks/](tasks) se nahaja zbirka nalog, ki jih je mogoče rešiti s pomočjo znanja osnovnih konceptov
 programiranja v programskem jeziku Python.
