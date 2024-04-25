@@ -81,6 +81,10 @@ strukturo in delovanje vaše kode.
 - [Razširjen nabor nalog v programskem jeziku Python na platformi HackerRank](https://www.hackerrank.com/domains/python)
 - [Brezplačno dostopno integrirano razvojno okolje (IDE) PyCharm za razvoj s programskim jezikom Python](https://www.jetbrains.com/pycharm/)
 
+### Koristna uporaba orodja ChatGPT pri usvajanju znanja programiranja
+
+- [Primer interakcije študenta z orodjem ChatGPT po prvem terminu vaj](https://chat.openai.com/share/69f73591-5e68-4b8e-ac8e-201d96c676ed)
+
 ### Viri
 
 - https://www.w3schools.com/python/
