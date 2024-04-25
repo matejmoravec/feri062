@@ -35,7 +35,8 @@ programiranja v programskem jeziku Python.
 4. Odprite PyCharm in v zgornjem meniju izberite "Help" in nato "Register...". Prijavite se z istim e-naslovom in
    geslom, ki ste ga nastavili v prejšnjem koraku in imeli boste polno različico Pycharm Professional.
 5. Na svoj računalnik [s te povezave](https://github.com/matejmoravec/feri062/archive/refs/heads/master.zip) prenesite
-   projekt iz tega repozitorija in ga razpakirajte na poljubno lokacijo.
+   projekt iz tega repozitorija in ga razpakirajte na poljubno lokacijo. ***#*** *Projekt se sproti dopolnjuje, zato
+   vsake toliko časa preverite ali je v projektu, kaj novega.*
 6. Odprite PyCharm in v zgornjem meniju izberite "File" --> "Open..." ter v dialogu poiščite in izberite direktorij s
    projektom, ki ste ga v prejšnji točki prenesli iz tega repozitorija.
 7. Na levi strani so prikazane interaktivne beležke. Posamezne celice v interaktivni beležki lahko zaganjate tako, da na
